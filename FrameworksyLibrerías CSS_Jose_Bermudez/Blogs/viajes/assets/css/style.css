@@ -1,0 +1,45 @@
+body {
+    background-color: burlywood;
+}
+
+.nav-wrapper {
+    border: none;
+    box-shadow: none;
+}
+
+.nav-wrapper > a > img {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.contenidoTotal {
+    background-color: white;
+    padding-top: 20px;
+}
+
+.slogan {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+
+.socialMedia img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.cont img {
+    width: 100%;
+}
+
+
+
+.cv img {
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+
+.clear {
+    clear: both;
+}

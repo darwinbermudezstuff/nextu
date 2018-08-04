@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+.socialMedia{
+    text-align: center;
+}
+
+.socialMedia > ul > li > a > img {
+    width: 20px;
+}
+
+.logo > img {
+    width: 200px;
+} 
+
+.menu {
+    padding: 20px 0px;
+    margin: 20px 0px;    
+    background-color: cadetblue;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.menu a {
+    color: white;
+}
+
+header{
+    border-radius: 0px 0px 10px 10px;
+    background-color: white;    
+    margin-bottom: 20px;
+}
+
+.titleHeader {
+    padding: 0px 5%;
+}
+.content {
+    border-radius: 10px 10px 0px 0px ;    
+    background-color: white;    
+    padding-top: 20px;    
+}
+.contentBand{
+    padding: 0px 5%;
+}
+
+.contentBand img {
+    width: 100%;
+}
+
+.coment {
+    margin: 20px 0px 10px 0px;
+}
+
+.fa {
+    font-size: 45px;
+}
